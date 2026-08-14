@@ -8,10 +8,7 @@ tags:
   - Tag
 ---
 
-# Research Visit to the Erasmus MC in Rotterdam
-
-![alt text](assets/images/photos/erasmusmc.jpg "Erasmus MC")
-
+![alt text](/assets/images/photos/erasmusmc.jpg "Erasmus MC")
 
 ### Introduction
 
@@ -30,7 +27,7 @@ previous study on automated IAC segmentation approaches.
 
 
 ### The Exchange
-<img src="assets/images/photos/exchange_map.png" alt="Exchange map" style="float: left; width: 50%; margin-right: 15px;"/>
+<img src="/assets/images/photos/exchange_map.png" alt="Exchange map" style="float: left; width: 50%; margin-right: 15px;"/>
 
 During the six weeks of the research exchange at the Erasmus MC, I was kindly integrated into both the Vascular Imaging
 Group and the BIGR community. I participated in regular research group meetings within the Vascular Imaging Group. I
@@ -53,8 +50,8 @@ arterial calcifications using a method I had used to visualise disagreement betw
 
 <table>
   <tr>
-    <td><img src="assets/images/photos/blaak_market_hall.jpg" alt="Blaak market hall" width="100%"/></td>
-    <td><img src="assets/images/photos/rotterdam_port.jpg" alt="Rotterdam port" width="100%"/></td>
+    <td><img src="/assets/images/photos/blaak_market_hall.jpg" alt="Blaak market hall" width="100%"/></td>
+    <td><img src="/assets/images/photos/rotterdam_port.jpg" alt="Rotterdam port" width="100%"/></td>
   </tr>
 </table>
 
@@ -66,7 +63,7 @@ able to visit Delft, with its porcelain museum, and Amsterdam, with a visit to t
 
 ### Outcome
 
-<img src="assets/images/photos/benjamin_erasmusmc.jpg" alt="Last day at the Erasmus MC" style="float: left; width: 15%; margin-right: 15px;"/>
+<img src="/assets/images/photos/benjamin_erasmusmc.jpg" alt="Last day at the Erasmus MC" style="float: left; width: 15%; margin-right: 15px;"/>
 Now that I am back at the University of Edinburgh, I am starting the final year of my PhD. This year will involve 
 writing up a publication based on the results of the research exchange, as well as a sustained collaboration with the
 researchers at Erasmus MC. While the external validation of the automated segmentation models is being finalised, we
