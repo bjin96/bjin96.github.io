@@ -65,11 +65,7 @@ arterial calcifications using a method I had used to visualise disagreement betw
 
 ### Outcome
 
-<
-    img src="/assets/images/photos/benjamin_erasmusmc.jpg"
-    alt="Last day at the Erasmus MC"
-    class="img-fluid w-100 w-md-50 w-lg-12"
-/>
+<img src="/assets/images/photos/benjamin_erasmusmc.jpg" alt="Exchange map" class="img-fluid w-100 w-md-50 w-lg-33" />
 Now that I am back at the University of Edinburgh, I am starting the final year of my PhD. This year will involve 
 writing up a publication based on the results of the research exchange, as well as a sustained collaboration with the
 researchers at Erasmus MC. While the external validation of the automated segmentation models is being finalised, we
