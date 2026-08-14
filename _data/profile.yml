@@ -48,7 +48,10 @@ education:
   date: Oct. 2016 - Oct. 2019
 
 experience:
-  - name:
+  - name: Erasmus MC
+    logo: /assets/images/badges/emc_logo.png
+    date: Jan. 2026 - Feb. 2026
+    position: Visiting Researcher
   - name: Recoro UG
     logo: /assets/images/badges/recoro_logo.png
     position: Software Engineer and Data Scientist
