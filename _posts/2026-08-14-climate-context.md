@@ -50,15 +50,12 @@ Effects of climate change are becoming increasingly apparent. Climate Context he
 experience every day, and at the place that we live. If this has caught you're attention, give the app a try!
 
 <div class="row justify-content-center">
-    <div class="col-md-3">
+    <div class="col-md-3 col-sm-6 col-xs-12">
         <a href="https://play.google.com/store/apps/details?id=com.milesgrey.climate_context" target="_blank" rel="noopener noreferrer">
           <img src="/assets/images/photos/get_on_google_play.png" alt="Climate Context App" />
         </a>
     </div>
-</div>
-
-<div class="row justify-content-center">
-    <div class="col-md-3">
+    <div class="col-md-3 col-sm-6 col-xs-12">
         <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="benjaminjin" data-color="#FFDD00" data-emoji="☕"  data-font="Poppins" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
     </div>
 </div>
