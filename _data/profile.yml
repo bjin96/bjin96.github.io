@@ -47,18 +47,31 @@ education:
   position: B.Sc. in Computer Science
   date: Oct. 2016 - Oct. 2019
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+  - name:
+  - name: Recoro UG
+    logo: /assets/images/badges/recoro_logo.png
+    position: Software Engineer and Data Scientist
+    date: Jan. 2022 - Feb. 2023
+  - name: University of Augsburg
+    logo: /assets/images/badges/unia_logo.png
+    position: Research and Teaching Assistant
+    date: Nov. 2020 - Sep. 2021
+  - name: Meteocontrol GmbH
+    logo: /assets/images/badges/meteocontrol_logo.png
+    position: Working Student Software Development
+    date: Jan. 2022 - Feb. 2023
+  - name: itestra GmbH
+    logo: /assets/images/badges/itestra_logo.png
+    position: Intern Software Development
+    date: Aug. 2017 - Oct. 2017
 
 awards:
 - name: SINAPSE ECR Exchange Fund (UK)
   date: 2025
-- name: Doctoral studentship from the Medical Research Council (UK)
+- name: MRC doctoral studentship (UK)
   date: 2023-2027
 - name: EXIST Business Startup Grant (DE) 
   date: 2022
-- name: Deutschlandstipendium
+- name: Deutschlandstipendium (DE)
   date: 2017-2021
