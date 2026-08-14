@@ -3,9 +3,7 @@ layout: blog_post
 title: 'Research Visit to the Erasmus MC in Rotterdam'
 date: 2026-06-10
 tags:
-  - Blog
   - Post
-  - Tag
 ---
 
 ![alt text](/assets/images/photos/erasmusmc.jpg "Erasmus MC")
@@ -29,6 +27,7 @@ previous study on automated IAC segmentation approaches.
 ### The Exchange
 <img src="/assets/images/photos/exchange_map.png" alt="Exchange map" style="float: left; width: 50%; margin-right: 15px;"/>
 
+<p></p>
 During the six weeks of the research exchange at the Erasmus MC, I was kindly integrated into both the Vascular Imaging
 Group and the BIGR community. I participated in regular research group meetings within the Vascular Imaging Group. I
 also had the opportunity to attend a doctoral defence from one of Dr Bos’ PhD students – I hadn’t expected them to be
@@ -48,22 +47,27 @@ arterial calcifications and connecting me with his PhD students and follow-up co
 I was able to contribute to another PhD student’s project investigating the spatial distribution of intracranial
 arterial calcifications using a method I had used to visualise disagreement between manual and automated segmentations.
 
-<table>
-  <tr>
-    <td><img src="/assets/images/photos/blaak_market_hall.jpg" alt="Blaak market hall" width="100%"/></td>
-    <td><img src="/assets/images/photos/rotterdam_port.jpg" alt="Rotterdam port" width="100%"/></td>
-  </tr>
-</table>
+<p class="mb-3">
+    <img src="/assets/images/photos/blaak_market_hall.jpg" alt="Blaak market hall" style="float: left; width: 50%;"/>
+    <img src="/assets/images/photos/rotterdam_port.jpg" alt="Rotterdam port" style="float: right; width: 50%;"/>
+</p>
 
-In addition to the academic side of the exchange, I am also very grateful for the opportunity to explore Rotterdam, with
-its massive port, the incredible Blaak market hall, and the exciting modern architecture across the city. I was also
-able to visit Delft, with its porcelain museum, and Amsterdam, with a visit to the Van Gogh museum on the weekends.
+<p>
+    In addition to the academic side of the exchange, I am also very grateful for the opportunity to explore Rotterdam, with
+    its massive port, the incredible Blaak market hall, and the exciting modern architecture across the city. I was also
+    able to visit Delft, with its porcelain museum, and Amsterdam, with a visit to the Van Gogh museum on the weekends.
+</p>
+
 
 
 
 ### Outcome
 
-<img src="/assets/images/photos/benjamin_erasmusmc.jpg" alt="Last day at the Erasmus MC" style="float: left; width: 15%; margin-right: 15px;"/>
+<
+    img src="/assets/images/photos/benjamin_erasmusmc.jpg"
+    alt="Last day at the Erasmus MC"
+    class="img-fluid w-100 w-md-50 w-lg-12"
+/>
 Now that I am back at the University of Edinburgh, I am starting the final year of my PhD. This year will involve 
 writing up a publication based on the results of the research exchange, as well as a sustained collaboration with the
 researchers at Erasmus MC. While the external validation of the automated segmentation models is being finalised, we
