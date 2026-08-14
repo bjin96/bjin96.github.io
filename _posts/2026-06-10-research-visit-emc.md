@@ -6,6 +6,8 @@ tags:
   - Post
 ---
 
+In early 2026 I undertook a six-week research to the Erasmus MC in Rotterdam, the Netherlands.
+
 ![alt text](/assets/images/photos/erasmusmc.jpg "Erasmus MC")
 
 ### Introduction
