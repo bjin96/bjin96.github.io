@@ -1,7 +1,7 @@
 ---
 layout: blog_post
 title: 'Research Visit to the Erasmus MC in Rotterdam'
-date: 2024-01-01
+date: 2026-06-10
 tags:
   - Blog
   - Post
