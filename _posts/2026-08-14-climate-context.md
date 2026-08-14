@@ -50,7 +50,7 @@ Effects of climate change are becoming increasingly apparent. Climate Context he
 experience every day, and at the place that we live. If this has caught you're attention, give the app a try!
 
 <div class="row justify-content-center align-items-center">
-    <div class="col-md-3 col-sm-6 col-xs-12 text-center mb-3 mb-md-0">
+    <div class="col-md-3 col-sm-6 col-xs-12 text-center">
         <a href="https://play.google.com/store/apps/details?id=com.milesgrey.climate_context" target="_blank" rel="noopener noreferrer">
             <img src="/assets/images/photos/get_on_google_play.png" alt="Climate Context App" style="height: 60px; width: auto;" />
         </a>
