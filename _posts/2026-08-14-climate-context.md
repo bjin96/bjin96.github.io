@@ -49,13 +49,15 @@ a day in the past. So, arbitrary locations, both in space and time, can now be p
 Effects of climate change are becoming increasingly apparent. Climate Context helps to understand the weather we
 experience every day, and at the place that we live. If this has caught you're attention, give the app a try!
 
-<div class="row justify-content-center">
-    <div class="col-md-3 col-sm-6 col-xs-12">
+<div class="row justify-content-center align-items-center">
+    <div class="col-md-3 col-sm-6 col-xs-12 text-center mb-3 mb-md-0">
         <a href="https://play.google.com/store/apps/details?id=com.milesgrey.climate_context" target="_blank" rel="noopener noreferrer">
-          <img src="/assets/images/photos/get_on_google_play.png" alt="Climate Context App" />
+            <img src="/assets/images/photos/get_on_google_play.png" alt="Climate Context App" style="height: 60px; width: auto;" />
         </a>
     </div>
-    <div class="col-md-3 col-sm-6 col-xs-12">
-        <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="benjaminjin" data-color="#FFDD00" data-emoji="☕"  data-font="Poppins" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+    <div class="col-md-3 col-sm-6 col-xs-12 text-center">
+        <a href="https://www.buymeacoffee.com/benjaminjin" target="_blank" rel="noopener noreferrer">
+            <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" style="height: 60px; width: auto;" />
+        </a>
     </div>
 </div>
