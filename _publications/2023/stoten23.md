@@ -18,5 +18,5 @@ authors:
   - Athanasios Damialis
 links:
   Paper: https://doi.org/10.1016/j.scitotenv.2023.164295
-  Code: [https://github.com](https://github.com/bjin96/ssl-pollen-detection)
+  Code: https://github.com/bjin96/ssl-pollen-detection
 ---
