@@ -28,11 +28,10 @@ previous study on automated IAC segmentation approaches.
 
 ### The Exchange
 
-<div class="row text-center">
-    <div class="col-8">
+<div class="row justify-content-center">
+    <div class="col-md-8">
         <img src="/assets/images/photos/exchange_map.png" alt="Exchange map" />    
     </div>
-
 </div>
 
 During the six weeks of the research exchange at the Erasmus MC, I was kindly integrated into both the Vascular Imaging
