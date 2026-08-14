@@ -27,13 +27,12 @@ previous study on automated IAC segmentation approaches.
 
 
 ### The Exchange
-<img src="/assets/images/photos/exchange_map.png" alt="Exchange map" style="float: left; width: 50%; margin-right: 15px;"/>
 
 <div class="row">
-    <div class="col-lg-6 col-md-4 col-sm-6 col-xs-12">
-        <img src="/assets/images/photos/benjamin_erasmusmc.jpg" alt="Last day at the Erasmus MC" />
+    <div class="col">
+        <img src="/assets/images/photos/exchange_map.png" alt="Exchange map" />    
     </div>
-    <div class="col-lg-9 col-md-8 col-sm-6 col-xs-12">
+    <div class="col">
         <p>
             During the six weeks of the research exchange at the Erasmus MC, I was kindly integrated into both the Vascular Imaging
             Group and the BIGR community. I participated in regular research group meetings within the Vascular Imaging Group. I
@@ -55,7 +54,7 @@ previous study on automated IAC segmentation approaches.
             discussions on ethical dilemmas in research practice from the Dilemma Game app. These events helped me to connect with
             researchers across different stages and disciplines and provided insight into the local research culture. It also
             provided opportunities for me to promote the SINAPSE ECR Exchange Fund to support visiting Scottish universities.
-        </p>
+        </p>    
     </div>
 </div>
 
@@ -68,10 +67,10 @@ arterial calcifications using a method I had used to visualise disagreement betw
 
 <div class="row">
     <div class="col-md-6 col-sm-12">
-        <img src="/assets/images/photos/blaak_market_hall.jpg" alt="Blaak market hall" style="float: left; width: 50%;"/>
+        <img src="/assets/images/photos/blaak_market_hall.jpg" alt="Blaak market hall" />
     </div>
     <div class="col-md-6 col-sm-12">
-        <img src="/assets/images/photos/rotterdam_port.jpg" alt="Rotterdam port" style="float: right; width: 50%;"/>
+        <img src="/assets/images/photos/rotterdam_port.jpg" alt="Rotterdam port" />
     </div>
 </div>
 
