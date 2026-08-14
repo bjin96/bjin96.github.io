@@ -66,10 +66,14 @@ arterial calcifications and connecting me with his PhD students and follow-up co
 I was able to contribute to another PhD student’s project investigating the spatial distribution of intracranial
 arterial calcifications using a method I had used to visualise disagreement between manual and automated segmentations.
 
-<p class="mb-3">
-    <img src="/assets/images/photos/blaak_market_hall.jpg" alt="Blaak market hall" style="float: left; width: 50%;"/>
-    <img src="/assets/images/photos/rotterdam_port.jpg" alt="Rotterdam port" style="float: right; width: 50%;"/>
-</p>
+<div class="row">
+    <div class="col-md-6 col-sm-12">
+        <img src="/assets/images/photos/blaak_market_hall.jpg" alt="Blaak market hall" style="float: left; width: 50%;"/>
+    </div>
+    <div class="col-md-6 col-sm-12">
+        <img src="/assets/images/photos/rotterdam_port.jpg" alt="Rotterdam port" style="float: right; width: 50%;"/>
+    </div>
+</div>
 
 <p>
     In addition to the academic side of the exchange, I am also very grateful for the opportunity to explore Rotterdam, with
