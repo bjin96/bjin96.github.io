@@ -28,8 +28,8 @@ previous study on automated IAC segmentation approaches.
 
 ### The Exchange
 
-<div class="row">
-    <div class="col">
+<div class="row text-center">
+    <div class="col-8">
         <img src="/assets/images/photos/exchange_map.png" alt="Exchange map" />    
     </div>
 
