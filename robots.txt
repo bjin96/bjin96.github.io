@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Disallow specific directories (Uncomment and edit if needed)
+# Disallow: /admin/
+# Disallow: /private/
+# Disallow: /tmp/
+
+# Point to your sitemap
+Sitemap: https://bjin96.github.io/sitemap.xml
